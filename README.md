@@ -9,9 +9,9 @@
 
 <h3 align="center">
   Dengan <img src="https://latex.codecogs.com/svg.image?{\color{Teal}\hat{y}&space;=&space;f(Wx&plus;b)}" alt="f(Wx+b)" /> kita belajar,  
-  <br>
+  <br><br>
   Dengan <img src="https://latex.codecogs.com/svg.image?{\color{Teal}\frac{\partial&space;L}{\partial&space;W}}" alt="∂L/∂W" /> kita berkembang,  
-  <br>
+  <br><br>
   Hingga error menyusut, epoch demi epoch. 😁
 </h3>
 
