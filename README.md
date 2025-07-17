@@ -7,9 +7,14 @@
 
 - 📫 How to reach me **alfin2501@gmail.com**
 
-**Dengan ![fw](https://latex.codecogs.com/svg.image?{\color{Teal}\hat{y}&space;=&space;f(Wx&plus;b)}) kita belajar,**  
-**Dengan ![bp](https://latex.codecogs.com/svg.image?{\color{Teal}\frac{\partial&space;L}{\partial&space;W}}) kita berkembang,**  
-**Hingga error menyusut, epoch demi epoch. 😁**
+<h3 align="center">
+  Dengan <img src="https://latex.codecogs.com/svg.image?{\color{Teal}\hat{y}&space;=&space;f(Wx&plus;b)}" alt="f(Wx+b)" /> kita belajar,  
+  <br>
+  Dengan <img src="https://latex.codecogs.com/svg.image?{\color{Teal}\frac{\partial&space;L}{\partial&space;W}}" alt="∂L/∂W" /> kita berkembang,  
+  <br>
+  Hingga error menyusut, epoch demi epoch. 😁
+</h3>
+
 
 
 
