@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alfin2501@gmail.com**
 
-- ⚡ Fun fact **I enjoy using Duolingo to improve my English skills!**
+- ⚡ Quote **dengan f(Wx+b) kita belajar, dengan ∂W ∂L kita berkembang, sampai error berkurang epoch demi epoch 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
