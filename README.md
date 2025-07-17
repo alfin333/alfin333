@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **alfin2501@gmail.com**
 
-> **Dengan ![fw](https://latex.codecogs.com/svg.image?\hat{y}&space;=&space;f(Wx&plus;b)&transparent=true) kita belajar,**  
+> **Dengan <img src="https://latex.codecogs.com/svg.image?\dpi{150} \hat{y}=f(Wx&plus;b)" style="background:white; padding:6px; border-radius:6px;" />
+ kita belajar,**  
 > **dengan ![bp](https://latex.codecogs.com/svg.image?\frac{\partial&space;L}{\partial&space;W}&transparent=true) kita berkembang,**  
 > **hingga error menyusut — epoch demi epoch. 😁**
 
