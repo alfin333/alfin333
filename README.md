@@ -7,7 +7,10 @@
 
 - 📫 How to reach me **alfin2501@gmail.com**
 
-- ⚡ Quote **dengan f(Wx+b) kita belajar, dengan ∂W ∂L kita berkembang, sampai error berkurang epoch demi epoch 😁**
+> **Dengan ![fw](https://latex.codecogs.com/svg.image?\hat{y}&space;=&space;f(Wx&plus;b)) kita belajar,**  
+> **Dengan ![bp](https://latex.codecogs.com/svg.image?\frac{\partial&space;L}{\partial&space;W}) kita berkembang,**  
+> **hingga error menyusut epoch demi epoch. 😁**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
